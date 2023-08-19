@@ -6015,15 +6015,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _container: {fileID: 1207529681}
-  _repeatCount: 5
+  _repeatCount: 9
   _distanceBetweenFullLine: 3
   _distanceBetweenRandomLine: 4
   _blockPrefab: {fileID: 6857427932156805185, guid: 481e6ccc915dbd84484fd015a4c7fcea, type: 3}
-  _blockSpawnChance: 40
+  _blockSpawnChance: 44
   _wallPrefab: {fileID: 490050145762300898, guid: 7a110b5b919bb4f4996b9ee704b6355b, type: 3}
   _wallSpawnChance: 35
   _bonusPrefab: {fileID: 2511222910134410330, guid: 353c18cbdb782cb48ae8b6b6691ebceb, type: 3}
-  _bonusSpawnChance: 75
+  _bonusSpawnChance: 72
 --- !u!4 &2093828780330581120
 Transform:
   m_ObjectHideFlags: 0
@@ -6113,7 +6113,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 965725551787942241, guid: 232f6eaaaca302140841e3eba61f941e, type: 3}
       propertyPath: ForwardSpeed
-      value: 2.5
+      value: 2.7
       objectReference: {fileID: 0}
     - target: {fileID: 1043228718521834065, guid: 232f6eaaaca302140841e3eba61f941e, type: 3}
       propertyPath: m_Name

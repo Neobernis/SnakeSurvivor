@@ -18,6 +18,7 @@ namespace CodeBase.Snake
         {
             positions.Add(SnakeHead.position);
         }
+        
 
         private void Update()
         {
